@@ -1091,8 +1091,8 @@ shape_4 = 0
 font1 = pygame.font.SysFont('times new roman', 20,)
 font2 = pygame.font.SysFont('times new roman', 20, False, True)
 
-label1 = font1.render("Wolfgang Amadeus Mozart", 1, white)
-label2 = font2.render("Overture to the opera'The magic Flute', Die Zauberflöte, K.620", 1, white)
+label1 = font1.render("Wolfgang Amadeus Mozart", 1, black)
+label2 = font2.render("Overture to the opera'The magic Flute', Die Zauberflöte, K.620", 1, black)
 
 
 
